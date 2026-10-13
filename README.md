@@ -159,12 +159,6 @@ asmconverter/
 
 ---
 
-## Contributing
-
-Issues and pull requests are welcome. If you find a pattern that converts incorrectly, please open an issue with the input, the options you used, and the expected output.
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
